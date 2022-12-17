@@ -7,14 +7,11 @@ import com.mpay.exceptions.CustomerException;
 import com.mpay.model.Customer;
 import com.mpay.model.Wallet;
 import com.mpay.repositories.CustomerRepo;
-import com.mpay.repositories.SessionRepo;
 
 @Service
 public class CustomerServiceImpl implements CustomerService {
 	@Autowired
 	private CustomerRepo cRepo;
-	@Autowired
-	private SessionRepo sRepo;
 
 	@Override
 	public Customer RegisterCustomer(Customer customer) throws CustomerException {
