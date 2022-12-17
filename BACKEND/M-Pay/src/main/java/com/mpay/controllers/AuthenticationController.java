@@ -18,7 +18,7 @@ import com.mpay.services.LoginService;
 import com.mpay.services.CustomerService;
 
 @RestController
-@RequestMapping("/digipocket")
+@RequestMapping("/mpay")
 public class AuthenticationController {
 
 	@Autowired
