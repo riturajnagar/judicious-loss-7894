@@ -2,16 +2,16 @@
 
 ## Objective:
 
-We made a online payment application where customer can open his account and add money from account to his wallet , can do transfer money..
+We made an online payment application where customers can open their accounts and add money from their accounts to their wallets and transfer money.
 
 
-## Features Or Usecases:
+## Features Or Use cases:
 
-- Customers will be able to park their money in the wallet.
-- Customer will be able to pay different bills using this wallet.
-- They should be able to connect bank account with this payment wallet and add money.
-- Customers transaction details will be saved.
-- Customers can able to check balance, deposit money, transaction history etc.
+- Customers will be able to park their money in their wallets.
+- Customers will be able to pay different bills using this wallet.
+- They should be able to connect a bank account with this payment wallet and add money.
+- Customer's transaction details will be saved.
+- Customers can be able to check balances, deposit money, transaction history, etc.
 
 
 ## Tech Stacks:
@@ -26,8 +26,8 @@ We made a online payment application where customer can open his account and add
 
 ## Installation and Run 
 
-- The Apllication is not hosted on cloud services, so you cannot make api call directly.
-- You can clone this repository and run the application on local machine.
+- The application is not hosted on cloud services, so you cannot make api calls directly.
+- You can clone this repository and run the application on the local machine.
 - Before running the application make sure that you updated the database properties.
 
    ## Database properties
