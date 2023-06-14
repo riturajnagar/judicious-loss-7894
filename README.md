@@ -92,11 +92,11 @@ We made an online payment application where customers can open their accounts an
 
 ## Learning :-
 
-- During this project we got to learn how to work in groups.
-- During this project we increased our communication skills.
+- During this project, we learned how to work in groups.
+- During this project, we increased our communication skills.
 - We Learned how to communicate with team members.
 - Overall we learn lots of things during this project.
-- Our skills of Java And Spring boot became more better and clear.
+- Our skills in Java And Spring Boot became better and clear.
 
 
 ## Team - Members:
